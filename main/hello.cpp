@@ -8,5 +8,6 @@ int main(void) {
   cout << "I have successfully built and run\n";
   cout<<"Time waste"<<endl;
   cout<<1;
+  cout<<2;
   return 0;
 }
