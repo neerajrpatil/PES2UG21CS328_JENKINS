@@ -9,5 +9,6 @@ int main(void) {
   cout<<"Time waste"<<endl;
   cout<<1;
   cout<<2;
+  cout<<3;
   return 0;
 }
